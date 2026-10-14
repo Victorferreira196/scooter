@@ -1,4 +1,4 @@
-# scooter
+# scooter-ble
 
 Engenharia reversa do protocolo BLE do patinete elétrico **DNTOO B8D1**.
 
